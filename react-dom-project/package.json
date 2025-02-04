@@ -1,0 +1,19 @@
+{
+  "name": "react-dom-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sandeep7727939593/react-dom-project.git"
+  },
+  "author": "Sandeep Kumar Jangir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeep7727939593/react-dom-project/issues"
+  },
+  "homepage": "https://github.com/sandeep7727939593/react-dom-project#readme",
+  "description": ""
+}
